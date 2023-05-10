@@ -1,0 +1,31 @@
+{
+  "name": "onehand-surfing",
+  "displayName": "Onehand surfing",
+  "version": "0.0.1",
+  "description": "help web-surfing",
+  "author": "santutu",
+  "scripts": {
+    "dev": "plasmo dev",
+    "build": "plasmo build",
+    "package": "plasmo package"
+  },
+  "dependencies": {
+    "plasmo": "0.70.1",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@plasmohq/prettier-plugin-sort-imports": "3.6.4",
+    "@types/chrome": "0.0.227",
+    "@types/node": "18.15.11",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "prettier": "2.8.7",
+    "tailwindcss": "^3.3.2",
+    "typescript": "5.0.3"
+  },
+  "manifest": {
+    "host_permissions": [
+      "https://*/*"
+    ]
+  }
+}

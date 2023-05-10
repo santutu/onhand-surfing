@@ -1,0 +1,14 @@
+.hw-top {
+    background: rgb(17, 44, 198);
+    color: white;
+    font-family: "Fascinate";
+  }
+  
+  #plasmo-shadow-container {
+    width: 200px;
+    background-color: purple;
+  }
+  
+  #plasmo-mount-container {
+    border: 8px solid aqua;
+  }

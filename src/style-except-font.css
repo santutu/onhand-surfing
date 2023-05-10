@@ -1,0 +1,10 @@
+@import "./styles/test.css";
+@import "./styles/google-font.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ 
+

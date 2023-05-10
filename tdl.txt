@@ -1,0 +1,6 @@
+resolve conflit google font, icon.
+supply each site paginate such as google.
+multi actions popup.
+specific action on dragged text.
+make that can native right click.
+research action popup libraries that already exist.
